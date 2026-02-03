@@ -1,0 +1,2 @@
+# neighbor-loop-firestore
+Neighbor Loop scales community sustainability by unifying Gemini 3.0 Flash’s instant visual intelligence with Firestore’s native vector search to deliver a frictionless, high-engagement marketplace for surplus goods.
